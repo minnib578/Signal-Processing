@@ -6,6 +6,7 @@ In this project, we used Ultrasonic Sensor to detect the distance between object
   <img src="images/task_1.png" alt="Ubuntu Installer Disk" width="100%">
 
 * Use two ultrasonic sensors and Kalman filter to detect the distance between sensors and objects with sensor fusion algorithm 
-<img src="images/task_2.png" alt="Ubuntu Installer Disk" width="100%">
+  <img src="images/task_2.png" alt="Ubuntu Installer Disk" width="100%">
 
 * Use two ultrasonic sensors to determine the location of an object in the X-Y plane 
+  <img src="images/IMG_20191108_170602.jpg" alt="Ubuntu Installer Disk" width="100%">

@@ -37,12 +37,15 @@ Sensor 2 calibration equation: 		                 Y = 0.1743 * (Raw Duration) - 
 * Convert the readings to X and Y values
 
 Convert distance to a noisy X in order to calculate Y: 
+
     <img src="images/Picture6.png" alt="Ubuntu Installer Disk" width="30%">
     
 Convert distance to Y that is more stable using the noisy X value:
+
     <img src="images/Picture7.png" alt="Ubuntu Installer Disk" width="30%">
     
-Convert distance to more stable X using the more stable Y
+Convert distance to more stable X using the more stable Y:
+
     <img src="images/Picture8.png" alt="Ubuntu Installer Disk" width="30%">
 
 Where D1 is sensor 1 distance reading and D2 is sensor 2 distance reading 
